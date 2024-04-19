@@ -1,0 +1,1 @@
+ /home/edgard/projects/flutter/flutter-camera-capture/.dart_tool/flutter_build/f5a4a138b870057ecd3c9ef225e748a0/native_assets.yaml: 
